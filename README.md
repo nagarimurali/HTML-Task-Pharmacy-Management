@@ -1,4 +1,4 @@
-# HTML Task-Pharmacy Management #HTML Task-Corporate User Management
+# HTML Task-Pharmacy Management 
 
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/113176341/191708604-ad8a947b-5ce0-4f4a-974e-1e6516f0692b.png">
 
